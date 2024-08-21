@@ -4,7 +4,7 @@ import os
 def main():
     os.system('clear')
 
-    url = "https://github.com/oktaviaps/project/releases/download/install/setup.sh"
+    url = "https://github.com/oktaviaps/project/releases/download/install/install.sh"
     subprocess.run(['wget', '-O', 'setup.sh', '-q', url])
 
     subprocess.run(['chmod', '+x', 'setup.sh'])
