@@ -158,37 +158,6 @@ TCP SSL / HTTPS : /custom | /noobz
 ```
 </details>
 
-<b><details><summary>Information</summary></b> 
-## Info
-```diff
-- SSLH Mod FunnyVPN
-- WebAPI with Curl
-- Telegram Owner    : @Rerechan02 / @fn_project
-```
-- Script created by @Rerechan02 X @PR_Aiman [ FN Project Team ]
-- SSLH core mod by FunnyVPN Autoscript 1.2
-- X-Ray Core use Xray Core Original @Lastest Version
-- WebAPI use curl METHOD: POST, GET, PUT & DELETE
-- Support Limit Quota X-Ray Account
-```diff
-- Autoscript Free Version @Lastest
-- Autoscript By FN Project Team
-- Autoscript This does not require permission to use it
-- I really hate people who decrypt this script, if you decrypt it you should include credits
-```
-
-## Dev :
-- [@Rerechan02](https://t.me/Rerechan02)
-- [@PR_Aiman](https://github.com/praiman99)
-- [@L Aditya](https://t.me/farell_aditya_ardian)
-- [@FN Project](https://t.me/fn_project)
-
-     <p align="center"><img src="https://img.shields.io/badge/%20COPYRIGHT%20%C2%A9%202023-%20By%20Rerechan02%20『𝐅𝐍』%2C%20Inc-blue"></p> 
- <b> 
- </b> 
- <br> 
-</details>
-
 <b><details><summary>System Support</summary></b> 
 ### System Support
 # Debian:
@@ -244,11 +213,6 @@ TCP SSL / HTTPS : /custom | /noobz
 </details>
 
 <b><details><summary>Other Detail</summary></b>
-### Base Code
-[Source](https://t.me/fn_project/392)
-
-### STATUS
-`@Lastest`
 
 ### SETTING CLOUDFLARE
 ```
@@ -259,10 +223,6 @@ TCP SSL / HTTPS : /custom | /noobz
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
-
-## Uptime Status
-- [@UPTIME](https://status.org.cn/)
-</details>
 
 <b><details><summary>WebAPI Docs</summary></b>
 ## WebAPI
@@ -336,7 +296,7 @@ Example Log:
 `your-domain.com/api/path`
 ```
 Example:
-https://rerechan.ai/api/addssh
+https://diwayaa.com/api/addssh
 ```
 
 ### API Need
@@ -361,49 +321,4 @@ xray: username
 -
 ```
 
-### OTHER
-```
-Output:
-- json
-
-Auth:
-- -H "Authorization: Rerechan02 your-key"
-Rerechan02 text cannot be replaced by other text, if it is changed then authentication will not be successful
-```
-
 </details>
-
-<b><details><summary>Tutorial Example</summary></b>
-### Pointing Tutorial
-- [SUBDOMAIN & NAMSERVER SLOWDNS](https://t.me/fn_project/1527)
-</details>
-
-<b><details><summary>Donate To Admin</summary></b>
-### Donate To Admin
-`DONATE E-Wallet Indo / Malay`
-- DANA     : `087848417898` [ L ADITYA ]
-- Gopay    : `083120684925` [ Dinda Putri ]
-- Shopepay : `083120684925` [ Rerechan02 ]
-- Qris All Payment [qris](https://t.me/fn_project/245)
-
-`Donate To Other Region`
-- PR_Aiman [donate](https://sociabuzz.com/praiman/tribe?_ref=li>)
-- Paypal: `melon3344556@gmail.com`
-- TON Network: `UQBoVC_vTCo6e2IVV1T21gyj0BVLaMwDd4qeooNjKaFQDl9j`
-<br>If you transfer via PayPal, please select the As Family option
-</details>
-
-![image](https://raw.githubusercontent.com/Rerechan02/simple-xray/main/funny2.png)<br></html>
-
- <p align="center">
-<a href="https://t.me/fn_project"><img title="Made in Indonesia" src="https://img.shields.io/badge/MADE%20IN-INDONESIA_X_MALAYSIA-SCRIPT?colorA=%23ff0000&colorB=%23ffffff&colorC=%23ff0000&style=for-the-badge"></a>
-</p>
-
-
-## License
-Repository ini dilindungi oleh lisensi [PAK POLISI](https://satpolpp.kebumenkab.go.id/index.php)
-Karya ini dilisensikan di bawah [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
-
-![Lisensi Creative Commons](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
-![Lisensi Creative Commons](https://mirrors.creativecommons.org/presskit/icons/by.svg)
-![Lisensi Creative Commons](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
