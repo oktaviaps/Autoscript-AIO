@@ -11,9 +11,9 @@
 <b><details><summary>Install Script</summary></b>
 `Siapkan bahan sebelum install`
 ```
-- Virtual Private Server [ VPS ]
-- Subdomain / Domain Server
-- Nameserver Slowdns
+• Virtual Private Server [ VPS ]
+• Subdomain / Domain Server
+• Nameserver Slowdns
 ```
 ***ROOT***
 ``` 
@@ -21,15 +21,15 @@ sudo su
 ```
 ***TAHAP 1***
 ```
-apt update -y; apt upgrade -y; apt install gnupg tmux python3 -y; tmux new -s fn
+apt update -y; apt upgrade -y; apt install gnupg tmux python3 -y; tmux new -s os
 ```
 ***TAHAP 2***
 ```
-wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/funny.py; chmod +x funny.py; python3 funny.py
+wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/osproject.py; chmod +x osproject.py; python3 osproject.py
 ```
-***If there is a disconnection during installation***
+***Jalankan perintah jika disconect di tengah jalan***
  ```
-tmux attach-session -t fn
+tmux attach-session -t os
  ```
 </details>
 
