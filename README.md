@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=OS+PROJECT+[TUNELING]" />
+<img src="https://readme-typing-svg.herokuapp.com?&center=true&vCenter=true&lines=OS+PROJECT+[TUNELING]" />
 </p>
 
 <b><details><summary>Install Script</summary></b>
