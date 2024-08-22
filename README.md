@@ -11,8 +11,8 @@
 <b><details><summary>Install Script</summary></b>
 `Siapkan bahan sebelum install`
 ```
-• Virtual Private Server [ VPS ]
-• Subdomain / Domain Server
+• [ VPS ]
+• Domain Server
 • Nameserver Slowdns
 ```
 ***ROOT***
