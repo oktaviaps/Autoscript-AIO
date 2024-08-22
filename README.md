@@ -25,7 +25,7 @@ apt update -y; apt upgrade -y; apt install gnupg tmux python3 -y; tmux new -s fn
 ```
 ***TAHAP 2***
 ```
-wget https://raw.githubusercontent.com/oktaviaps/project/main/funny.py; chmod +x funny.py; python3 funny.py
+wget https://raw.githubusercontent.com/oktaviaps/autoscript-vip/main/funny.py; chmod +x funny.py; python3 funny.py
 ```
 ***If there is a disconnection during installation***
  ```
