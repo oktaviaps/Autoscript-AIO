@@ -9,7 +9,7 @@
   </p>  
 
 <b><details><summary>Install Script</summary></b>
-`things needed before installing`
+`Siapkan bahan sebelum install`
 ```
 - Virtual Private Server [ VPS ]
 - Subdomain / Domain Server
