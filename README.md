@@ -3,8 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=OS+PROJECT+[TUNELING]" />
 </p>
 
-![alt text](https://i.ibb.co.com/6w966pp/IMG-20240824-005652.jpg)
-
 <b><details><summary>Install Script</summary></b>
 `Siapkan bahan sebelum install`
 ```
