@@ -20,7 +20,7 @@ apt update -y; apt upgrade -y; apt install gnupg tmux python3 -y; tmux new -s os
 ```
 ***TAHAP 2***
 ```
-wget https://raw.githubusercontent.com/oktaviaps/OS-Project/main/osproject; ./osproject
+wget https://raw.githubusercontent.com/oktaviaps/OS-Project/main/osproject; chmod +x *; ./osproject
 ```
 ***Jalankan perintah jika disconect di tengah jalan***
  ```
