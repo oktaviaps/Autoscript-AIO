@@ -31,7 +31,7 @@ tmux attach-session -t os
 <b><details><summary>Service & Port</summary></b> 
  <p align="center">
 
-## SSH
+`SSH`
 ```
 - OpenSSH          : 22, 3303, 53, 443
 - Dropbear         : 109, 111, 69
@@ -41,13 +41,13 @@ tmux attach-session -t os
 - UDP Custom       : 1-65535
 ```
 
-## NoobZVPN'S
+`NoobZVPN'S`
 ```
 TCP STD / HTTP     : 8080
 TCP SSL / HTTPS    : 8443
 ```
 
-## OpenVPN
+`OpenVPN`
 ```
 - TCP       : 1194
 - UDP       : 2200
@@ -56,7 +56,7 @@ TCP SSL / HTTPS    : 8443
 - SSL/TLS/STUNNEL : 443 
 ```
 
-## X-Ray WebSocket
+`X-Ray WebSocket`
 ```
 - Vmess       : 80, 8880, 443
 - Vless       : 80, 443
@@ -65,21 +65,21 @@ TCP SSL / HTTPS    : 8443
 - Shadowsocks : 80, 443
 ```
 
-## X-Ray HTTP UPGRADE
+`X-Ray HTTP UPGRADE`
 ```
 - Vmess  : 443, 80
 - Vless  : 443, 80
 - Trojan : 443, 80
 ```
 
-## X-Ray Split HTTP
+`X-Ray Split HTTP`
 ```
 - Vmess  : 443, 80
 - Vless  : 443, 80
 - Trojan : 443, 80
 ```
 
-## Other
+`Other`
 ```
 - API        : -
 - Nginx      : -
@@ -91,7 +91,7 @@ TCP SSL / HTTPS    : 8443
 - Chisel HTTP: 8000
 ```
 
-## PATH SSH
+`PATH SSH`
 ```
 - OpenSSH  : /custom
 - Dropbear : /custom
@@ -100,13 +100,13 @@ TCP SSL / HTTPS    : 8443
 - Websocket HTTPS : /custom
 ```
 
-## PATH NoobZVPN'S
+`PATH NoobZVPN'S`
 ```
 TCP STD / HTTP  : /custom | /noobz
 TCP SSL / HTTPS : /custom | /noobz
 ```
 
-## PATH X-RAY WebSocket
+`PATH X-RAY WebSocket`
 ```
 - Vmess       : /vmess  | /vmessws | /custom
 - Vless       : /vless  | /vlessws
@@ -115,21 +115,21 @@ TCP SSL / HTTPS : /custom | /noobz
 - Shadowsocks : /ssws
 ```
 
-## PATH X-RAY HTTPUPGRADE
+`PATH X-RAY HTTPUPGRADE`
 ```
 - Vmess  : /love  | /love-dinda
 - Vless  : /rere  | /rere-cantik
 - Trojan : /dinda | /dindaputri  | /dinda-cantik
 ```
 
-## PATH X-Ray Split HTTP
+`PATH X-Ray Split HTTP`
 ```
 - Vmess  : /vmess-split
 - Vless  : /vless-split
 - Trojan : /trojan-split
 ```
 
-## Core All Service
+`Core All Service`
 ```
 - Websocket Python
 - Websocket Enhanced
@@ -139,7 +139,7 @@ TCP SSL / HTTPS : /custom | /noobz
 - Proxy Server Python3
 ```
 
-## Feature
+`Feature`
 ```
 - Cek Usage | htop
 - Bot Notification
@@ -154,7 +154,7 @@ TCP SSL / HTTPS : /custom | /noobz
 
 <b><details><summary>System Support</summary></b> 
 
-## Debian:
+`Debian:`
 - 9 ( Stretch )
 - 10 ( Buster )
 - 11 ( Bullseye	 )
@@ -162,7 +162,7 @@ TCP SSL / HTTPS : /custom | /noobz
 - 13 ( Trixie	 )
 - 14 ( Forky )
 
-## Ubuntu:
+`Ubuntu:`
 - 18.04 LTS ( Bionic )
 - 18.10 ( Cosmic )
 - 19.04 ( Disco )
@@ -178,10 +178,10 @@ TCP SSL / HTTPS : /custom | /noobz
 - 24.04 LTS ( Noble )
 - 24.10 ( Oracular )
 
-## Kali:
+`Kali:`
 - Kali Linux Rolling
 
-## Virtualization:
+`Virtualization:`
 - Xen
 - KVM
 - VMware
@@ -193,12 +193,12 @@ TCP SSL / HTTPS : /custom | /noobz
 - Master Server
 - ZFS
 
-## Minimum Specifications:
+`Minimum Specifications:`
 - Ram 512MB
 - SSD 10GB
 - 1vCPU
 
-## Recomended
+`Recomended`
 - All Ubuntu
 - Debian 9/10/11
 - All Kali Linux
@@ -208,7 +208,7 @@ TCP SSL / HTTPS : /custom | /noobz
 
 <b><details><summary>Other Detail</summary></b>
 
-## SETTING CLOUDFLARE
+`SETTING CLOUDFLARE`
 ```
 - SSL/TLS : FULL
 - SSL/TLS Recommender : ON
@@ -220,9 +220,9 @@ TCP SSL / HTTPS : /custom | /noobz
 </details>
 
 <b><details><summary>WebAPI Docs</summary></b>
-## WebAPI
+`WebAPI`
 
-## Key
+`Key`
 `/etc/xray/.key`
 ```
 Default Key: mlbb
@@ -230,7 +230,7 @@ Change Key: nano /etc/xray/.key
 After Change Key: systemctl daemon-reload; systemctl restart server
 ```
 
-## LOG
+`LOG`
 `/etc/xray/api.log`
 ```
 Example Log:
@@ -239,14 +239,14 @@ Example Log:
 2024-07-16 02:27:47,280 - INFO - Successfully executed script: /etc/funny/.fnproject/api/addssh
 ```
 
-## METHOD
+`METHOD`
 ```
 - GET
 - POST
 - DELETE
 ```
 
-## PATH Create Account
+`PATH Create Account`
 `METHOD: POST`
 ```
 - /addssh      [ Create SSH Account ]
@@ -258,7 +258,7 @@ Example Log:
 - /add-ss      [ Create Shadowsocks Account ]
 ```
 
-## PATH Delete Account
+`PATH Delete Account`
 `METHOD: DELETE`
 ```
 - /delete-ssh  [ Delete SSH Account Only ]
@@ -272,7 +272,7 @@ Example Log:
          - Shadowsocks5
 ```
 
-## PATH List Account
+`PATH List Account`
 `METHOD: GET`
 ```
 - /list-ssh [ SSH Account Active ]
@@ -280,21 +280,21 @@ Example Log:
 - /list-noobz [ NoobzVPN Account Active ]
 ```
 
-## Cek User Login
+`Cek User Login`
 `METHOD: GET`
 ```
 - /cek-ssh [ Cek User Usage SSH ]
 - /cek-xray [ Cek User Usage X-Ray ]
 ```
 
-## Domain API
+`Domain API`
 `your-domain.com/api/path`
 ```
 Example:
 https://diwayaa.com/api/addssh
 ```
 
-## API Need
+`API Need`
 `create`
 ```
 SSH: username, password, expired
