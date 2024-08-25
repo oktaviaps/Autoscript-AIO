@@ -308,3 +308,5 @@ noobz: username
 xray: username
 ```
 </details>
+<b><summary>Example Menu</summary></b> 
+ <p align="center">
