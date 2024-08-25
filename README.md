@@ -153,7 +153,7 @@ TCP SSL / HTTPS : /custom | /noobz
 </details>
 
 <b><details><summary>System Support</summary></b> 
-### System Support
+
 # Debian:
 - 9 ( Stretch )
 - 10 ( Buster )
