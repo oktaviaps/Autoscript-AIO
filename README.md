@@ -30,7 +30,6 @@ tmux attach-session -t os
 
 <b><details><summary>Service & Port</summary></b> 
  <p align="center">
-<img src="https://img.shields.io/badge/-Services%20%26%20Port-brightgreen"> 
 
 # SSH
 ```
