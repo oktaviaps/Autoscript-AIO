@@ -308,7 +308,7 @@ noobz: username
 xray: username
 ```
 </details>
-<b><details></details><summary>Example Menu</summary></b> 
+<b><details><summary>Example Menu</summary></b> 
  <p align="center">
 
 [![IMG-20240825-164039.jpg](https://i.postimg.cc/cCMLPLQ0/IMG-20240825-164039.jpg)](https://postimg.cc/y3xKZBQb)
