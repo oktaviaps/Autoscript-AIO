@@ -217,6 +217,7 @@ TCP SSL / HTTPS : /custom | /noobz
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
+</details>
 
 <b><details><summary>WebAPI Docs</summary></b>
 ## WebAPI
