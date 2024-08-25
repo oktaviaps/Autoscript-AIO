@@ -208,7 +208,7 @@ TCP SSL / HTTPS : /custom | /noobz
 
 <b><details><summary>Other Detail</summary></b>
 
-### SETTING CLOUDFLARE
+# SETTING CLOUDFLARE
 ```
 - SSL/TLS : FULL
 - SSL/TLS Recommender : ON
