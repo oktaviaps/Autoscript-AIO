@@ -311,5 +311,5 @@ xray: username
 
 <b><details><summary>Example Menu</summary></b> 
 
-[![IMG-20240825-164039.jpg](https://i.postimg.cc/cCMLPLQ0/IMG-20240825-164039.jpg)](https://postimg.cc/y3xKZBQb)
+[![c86cb3a2a10335c66decc995a7df9ea9e76ac8e4-s2-n3-y1.jpg](https://i.postimg.cc/Njgnf6QJ/c86cb3a2a10335c66decc995a7df9ea9e76ac8e4-s2-n3-y1.jpg)](https://postimg.cc/WhH85JFg)
 </details>
