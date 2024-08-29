@@ -313,3 +313,7 @@ xray: username
 
 [![c86cb3a2a10335c66decc995a7df9ea9e76ac8e4-s2-n3-y1.jpg](https://i.postimg.cc/Njgnf6QJ/c86cb3a2a10335c66decc995a7df9ea9e76ac8e4-s2-n3-y1.jpg)](https://postimg.cc/WhH85JFg)
 </details>
+
+#
+<a href="https://t.me/diwayaa" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
+<a href="https://wa.me/6281228861758" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=green"></a><br>
