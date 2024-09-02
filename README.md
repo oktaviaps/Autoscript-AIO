@@ -49,11 +49,13 @@ TCP SSL / HTTPS    : 8443
 
 `OpenVPN`
 ```
-- TCP       : 1194
-- UDP       : 2200
+- TCP             : 1194
+- UDP             : 2200
 - WebSocket HTTPS : 443
 - WebSocket HTTP  : 80
-- SSL/TLS/STUNNEL : 443 
+- SSL/TLS/STUNNEL : 443
+- HTTP PROXY      : 8888
+- OHP SERVER      : 8181, 8282, 8383
 ```
 
 `X-Ray WebSocket`
@@ -63,20 +65,6 @@ TCP SSL / HTTPS    : 8443
 - Trojan      : 80, 443
 - Socks5      : 80, 443
 - Shadowsocks : 80, 443
-```
-
-`X-Ray HTTP UPGRADE`
-```
-- Vmess  : 443, 80
-- Vless  : 443, 80
-- Trojan : 443, 80
-```
-
-`X-Ray Split HTTP`
-```
-- Vmess  : 443, 80
-- Vless  : 443, 80
-- Trojan : 443, 80
 ```
 
 `Other`
@@ -115,20 +103,6 @@ TCP SSL / HTTPS : /custom | /noobz
 - Shadowsocks : /ssws
 ```
 
-`PATH X-RAY HTTPUPGRADE`
-```
-- Vmess  : /love  | /love-dinda
-- Vless  : /rere  | /rere-cantik
-- Trojan : /dinda | /dindaputri  | /dinda-cantik
-```
-
-`PATH X-Ray Split HTTP`
-```
-- Vmess  : /vmess-split
-- Vless  : /vless-split
-- Trojan : /trojan-split
-```
-
 `Core All Service`
 ```
 - Websocket Python
@@ -149,6 +123,7 @@ TCP SSL / HTTPS : /custom | /noobz
 - Plugin Hide SSH store
 - Report Bug to Admin
 - Certificate Default / IPv4 + IPv6
+- Limit Quota & Cek total usage quota xray
 ```
 </details>
 
