@@ -182,7 +182,6 @@ TCP SSL / HTTPS : /custom | /noobz
 </details>
 
 <b><details><summary>Other Detail</summary></b>
-
 `SETTING CLOUDFLARE`
 ```
 - SSL/TLS : FULL
@@ -194,93 +193,7 @@ TCP SSL / HTTPS : /custom | /noobz
 ```
 </details>
 
-<b><details><summary>WebAPI Docs</summary></b>
-`WebAPI`
 
-`Key`
-`/etc/xray/.key`
-```
-Default Key: mlbb
-Change Key: nano /etc/xray/.key
-After Change Key: systemctl daemon-reload; systemctl restart server
-```
-
-`LOG`
-`/etc/xray/api.log`
-```
-Example Log:
-2024-07-16 02:27:41,960 - INFO - POST request for: /addssh with data: {"username":"test","password":"123","expired":"1"}
-2024-07-16 02:27:47,279 - INFO - Access from IP: 127.0.0.1, User-Agent: curl/8.7.1
-2024-07-16 02:27:47,280 - INFO - Successfully executed script: /etc/funny/.fnproject/api/addssh
-```
-
-`METHOD`
-```
-- GET
-- POST
-- DELETE
-```
-
-`PATH Create Account`
-`METHOD: POST`
-```
-- /addssh      [ Create SSH Account ]
-- /add-noobz   [ Create NoobzVPN Account ]
-- /add-vmess   [ Create Vmess Account ]
-- /add-vless   [ Create Vless Account ]
-- /add-trojan  [ Create Trojan Account ]
-- /add-socks   [ Create Socks5 Account ]
-- /add-ss      [ Create Shadowsocks Account ]
-```
-
-`PATH Delete Account`
-`METHOD: DELETE`
-```
-- /delete-ssh  [ Delete SSH Account Only ]
-- /delete-noobz [ Delete NoobzVPN Only ]
-- /delete-xray [ Delete X-Ray Account ]
-- X-RAY:
-         - Vmess
-         - Vless
-         - Trojan
-         - Socks5
-         - Shadowsocks5
-```
-
-`PATH List Account`
-`METHOD: GET`
-```
-- /list-ssh [ SSH Account Active ]
-- /list-xray [ X-Ray Account Active ]
-- /list-noobz [ NoobzVPN Account Active ]
-```
-
-`Cek User Login`
-`METHOD: GET`
-```
-- /cek-ssh [ Cek User Usage SSH ]
-- /cek-xray [ Cek User Usage X-Ray ]
-```
-
-`Domain API`
-`your-domain.com/api/path`
-```
-Example:
-https://diwayaa.com/api/addssh
-```
-
-`API Need`
-`create`
-```
-SSH: username, password, expired
-Noobz: username, password, expired
-X-Ray: username, expired
-```
-`delete`
-```
-ssh: username
-noobz: username
-xray: username
 ```
 </details>
 <a href="https://t.me/dwilingar" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
