@@ -4,16 +4,6 @@
 </p>
 
 <b><details><summary>Install Script</summary></b>
-`Siapkan bahan sebelum install`
-```
-• [ VPS ]
-• Domain Server
-• Nameserver Slowdns
-```
-`ROOT`
-``` 
-sudo su
-```
 `TAHAP 1`
 ```
 apt update -y; apt upgrade -y; apt install gnupg tmux python3 -y; tmux new -s os
