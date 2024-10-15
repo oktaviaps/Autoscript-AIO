@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=OS+PROJECT+[TUNELING]" />
+<img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=OS+PROJECT+[VPN]" />
 </p>
 
 <b><details><summary>Install Script</summary></b>
