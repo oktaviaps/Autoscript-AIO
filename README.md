@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&lines=OS+PROJECT+[VPN]" />
 </p>
 
-### COMINGSON FOR INSTALL
+## COMINGSON FOR INSTALL
 ## JOIN MY CHANNEL FOR UPDATE
 
 <a href="https://t.me/osproject_backend" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
