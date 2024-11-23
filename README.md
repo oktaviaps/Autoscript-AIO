@@ -32,6 +32,28 @@
 - Shadowsocks WS = 443  
 - Shadowsocks gRPC = 443
 
+## FEATURE
+- Create Account  
+- Delete Account  
+- Renew Account  
+- Check Account
+- Detail User  
+- Timezone: Asia/Jakarta (GMT +7) 
+- Custom Autoreboot
+- Auto Delete Expired  
+- VPS Settings  
+- Admin Control  
+- Backup & Restore Data Via Web    
+- Full Orders For Various Services  
+- Limit IP & Quota Xray  
+- Multi-login Notification  
+- Custom UUID  
+- Check Bandwidth Usage  
+- Auto Backup On Time  
+- Multi Path Xray  
+- Banned/Unbanned SSH/OVPN  
+- Auto Remove Account
+
 ## JOIN MY CHANNEL FOR UPDATE
 
 <a href="https://t.me/osproject_backend" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
